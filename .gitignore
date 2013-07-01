@@ -2,6 +2,7 @@
 ## Eclipse
 #################
 
+
 *.pydevproject
 .project
 .metadata
@@ -214,3 +215,36 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+/Android Development Workspace/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml
+/Android Development Workspace/.metadata/.plugins/org.eclipse.wst.xml.core/system_catalog.xml
+/Android Development Workspace/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml
+/Android Development Workspace/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat
+/Android Development Workspace/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt
+/Android Development Workspace/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps
+/Android Development Workspace/.metadata/.plugins/org.eclipse.jdt.core/1171174555.index
+/Android Development Workspace/.metadata/.plugins/org.eclipse.jdt.core/1487294891.index
+/Android Development Workspace/.metadata/.plugins/org.eclipse.jdt.core/1789169078.index
+/Android Development Workspace/.metadata/.plugins/org.eclipse.jdt.core/1872480992.index
+/Android Development Workspace/.metadata/.plugins/org.eclipse.jdt.core/2219159680.index
+/Android Development Workspace/.metadata/.plugins/org.eclipse.jdt.core/2474766300.index
+/Android Development Workspace/.metadata/.plugins/org.eclipse.jdt.core/2522890022.index
+/Android Development Workspace/.metadata/.plugins/org.eclipse.jdt.core/2612004808.index
+/Android Development Workspace/.metadata/.plugins/org.eclipse.jdt.core/2877109961.index
+/Android Development Workspace/.metadata/.plugins/org.eclipse.jdt.core/3000053649.index
+/Android Development Workspace/.metadata/.plugins/org.eclipse.jdt.core/3270002986.index
+/Android Development Workspace/.metadata/.plugins/org.eclipse.jdt.core/3277441100.index
+/Android Development Workspace/.metadata/.plugins/org.eclipse.jdt.core/3585733931.index
+/Android Development Workspace/.metadata/.plugins/org.eclipse.jdt.core/3730526690.index
+/Android Development Workspace/.metadata/.plugins/org.eclipse.jdt.core/4251467834.index
+/Android Development Workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs
+/Android Development Workspace/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index
+/Android Development Workspace/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources
+/Android Development Workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.android.ide.eclipse.adt.prefs
+/Android Development Workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.cdt.debug.core.prefs
+/Android Development Workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs
+/Android Development Workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs
+/Android Development Workspace/.metadata/.log
+/Android Development Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/OilGameAndroid/.indexes/properties.index
+/Android Development Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/OilGameAndroid/org.eclipse.jdt.core/state.dat
+/Android Development Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/OilGameMain/org.eclipse.jdt.core/state.dat

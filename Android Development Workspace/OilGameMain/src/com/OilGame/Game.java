@@ -1,7 +1,3 @@
-// Hey guys I added this. What is the deal?
-
-
-
 package com.OilGame;
 
 import com.badlogic.gdx.ApplicationListener;
