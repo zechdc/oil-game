@@ -1,0 +1,7 @@
+package com.OilGame;
+
+public class Pad {
+	public static int width_x;
+	public static int width_y;
+
+}
