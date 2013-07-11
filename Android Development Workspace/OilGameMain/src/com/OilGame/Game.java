@@ -3,41 +3,21 @@ package com.OilGame;
 import com.badlogic.gdx.ApplicationListener;
 
 public class Game implements ApplicationListener {
+        public void create () {
+        }
 
-	@Override
-	public void create() {
-		// TODO Auto-generated method stub
+        public void render () {
+        }
 
-	}
+        public void resize (int width, int height) {
+        }
 
-	@Override
-	public void resize(int width, int height) {
-		// TODO Auto-generated method stub
+        public void pause () {
+        }
 
-	}
+        public void resume () {
+        }
 
-	@Override
-	public void render() {
-		// TODO Auto-generated method stub
-
-	}
-
-	@Override
-	public void pause() {
-		// TODO Auto-generated method stub
-
-	}
-
-	@Override
-	public void resume() {
-		// TODO Auto-generated method stub
-
-	}
-
-	@Override
-	public void dispose() {
-		// TODO Auto-generated method stub
-
-	}
-
+        public void dispose () {
+        }
 }
